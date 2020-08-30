@@ -1,0 +1,37 @@
+title{
+    background: #2345;
+}
+p{
+    background: #815c5c;
+    color : #d84f4f;
+    padding:30px 20px 10px 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background: #999999;
+}
+.secondary{
+background: #14b914;
+}
+nav{
+    background:#ced134;
+}
+
+nav ul{
+    
+    padding: 20px;
+}
+
+nav ul li{
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content:left;
+    align-self: center;
+    padding: 10px;
+    background: rgb(55, 217, 223);
+}
+body{
+    background-image:url("Screen Shot 2020-07-04 at 11.07.14 PM.png");
+}
