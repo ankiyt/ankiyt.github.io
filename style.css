@@ -32,6 +32,11 @@ nav ul li{
     padding: 10px;
     background: rgb(55, 217, 223);
 }
+
+nav ul li {
+    background: yellow;
+    font-display: arial;
+    display: inline;}
 body{
     background-image:url("Screen Shot 2020-07-04 at 11.07.14 PM.png");
 }
